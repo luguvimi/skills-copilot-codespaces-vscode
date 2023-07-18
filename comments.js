@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Create a web server
 // 2. Create a request handler
 // 3. Start the server and listen on a port
@@ -10,7 +10,7 @@ const fs = require('fs');
 const url = require('url');
 const path = require('path');
 
-// 1. Create a web server
+// 1. Create web server
 const server = http.createServer();
 
 // 2. Create a request handler
